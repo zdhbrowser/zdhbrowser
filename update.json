@@ -2,7 +2,7 @@
   "updates": {
     "windows": {
       "latest-version": "1.0",
-      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+      "download-url": "https://github.com/zdhbrowser/zdhbrowser/releases/download/test/3dh.exe",
       "changelog": "This is an example changelog for Windows. Go on...",
       "hash":"",
       "mandatory-update": true
