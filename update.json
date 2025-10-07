@@ -4,7 +4,7 @@
       "latest-version": "1.0",
       "download-url": "https://github.com/zdhbrowser/zdhbrowser/releases/download/test/3dh.exe",
       "changelog": "This is an example changelog for Windows. Go on...",
-      "hash":"",
+      "hash":"sha256:0381dea89680a40f71e6013ffcf37f8cef321a80a8e2b21383b263e45434fde6",
       "mandatory-update": true
     },
     "osx": {
